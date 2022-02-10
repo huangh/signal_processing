@@ -1,6 +1,6 @@
 import pytest
 
-from project_name import BaseClass, base_function
+from signal_processing import BaseClass, base_function
 
 given = pytest.mark.parametrize
 
